@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VSCode
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+Pipfile.lock
+poetry.lock
